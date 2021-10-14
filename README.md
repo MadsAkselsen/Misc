@@ -1,4 +1,3 @@
 # Misc
 
-Basic TypeScript, Webpack, Nodemon setup
-https://github.com/MadsAkselsen/typescript-practice-ZtM
+Basic TypeScript, Webpack, Nodemon setup - https://github.com/MadsAkselsen/webpack-typescript-nodemon-setup
